@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68b7b02ae9f82b94291c6d137bd6b6e3, type: 3}
+  m_Name: Warren
+  m_EditorClassIdentifier: Assembly-CSharp::CardDefinition
+  Name: Warren
+  Description: 'When Warren is played, a Rabbit is created in your hand. A Rabbit is defined as: 0 Power, 1 Health.'
+  Image: {fileID: 21300000, guid: 634930c255c996847a33233a6f8d503f, type: 3}
+  Cost: 0
+  CostAmount: 0
+  InitialSigils: 16
+  AttackValue: 0
+  HealthValue: 2

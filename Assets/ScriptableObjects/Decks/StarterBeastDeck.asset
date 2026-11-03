@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 446f94ad633faac41a5b14fde9f7fbcf, type: 3}
+  m_Name: StarterBeastDeck
+  m_EditorClassIdentifier: Assembly-CSharp::CardDeckDefinition
+  CardDeck:
+  - key: {fileID: 11400000, guid: e75b686959c5afd4cab7417d58829ca9, type: 2}
+    value: 7
+  - key: {fileID: 11400000, guid: 3e6f77abae6f3d04ba8d014892fa8f37, type: 2}
+    value: 3
+  - key: {fileID: 11400000, guid: 1937fa48d71e4dd49898dbf0822eb139, type: 2}
+    value: 2
+  - key: {fileID: 11400000, guid: a5aa2150cae4d2846bb72041b885c4e1, type: 2}
+    value: 3
+  - key: {fileID: 11400000, guid: aa1be5c76395dc1488c45b13fe942549, type: 2}
+    value: 5

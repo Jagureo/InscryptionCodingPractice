@@ -1,0 +1,433 @@
+fileFormatVersion: 2
+guid: 128d8dd559fe05943bba77af974a0aad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 406787101949030705
+    second: gbc_cardbattle_0
+  - first:
+      213: -7768160199332496452
+    second: gbc_cardbattle_1
+  - first:
+      213: -2004963152509873962
+    second: gbc_cardbattle_2
+  - first:
+      213: 4105998680719091270
+    second: gbc_cardbattle_3
+  - first:
+      213: 867137593378123978
+    second: gbc_cardbattle_4
+  - first:
+      213: -2215493524665795153
+    second: gbc_cardbattle_5
+  - first:
+      213: -3055393165815844843
+    second: gbc_cardbattle_6
+  - first:
+      213: -8225342815195992053
+    second: gbc_cardbattle_7
+  - first:
+      213: -4188812570832206675
+    second: gbc_cardbattle_8
+  - first:
+      213: -9089490572110787702
+    second: gbc_cardbattle_9
+  - first:
+      213: -1974598208480064750
+    second: gbc_cardbattle_10
+  - first:
+      213: 2759326247786222592
+    second: gbc_cardbattle_11
+  - first:
+      213: 7266898036347482855
+    second: gbc_cardbattle_12
+  - first:
+      213: -6661237654163157747
+    second: gbc_cardbattle_13
+  - first:
+      213: -1529998750875440969
+    second: gbc_cardbattle_14
+  - first:
+      213: 6346972032972294446
+    second: gbc_cardbattle_15
+  - first:
+      213: 1760373043689229786
+    second: gbc_cardbattle_16
+  - first:
+      213: 8005499430089295592
+    second: gbc_cardbattle_17
+  - first:
+      213: -38157048781781947
+    second: gbc_cardbattle_18
+  - first:
+      213: -3874467527805155486
+    second: gbc_cardbattle_19
+  - first:
+      213: -8971053189224372364
+    second: gbc_cardbattle_20
+  - first:
+      213: 4713671779204606400
+    second: gbc_cardbattle_21
+  - first:
+      213: -1394529797892300607
+    second: gbc_cardbattle_22
+  - first:
+      213: 8942992726394320053
+    second: gbc_cardbattle_23
+  - first:
+      213: -6004014063809490071
+    second: gbc_cardbattle_24
+  - first:
+      213: 4181260080167937844
+    second: gbc_cardbattle_25
+  - first:
+      213: -3402651281345070447
+    second: gbc_cardbattle_26
+  - first:
+      213: 5957542674791919802
+    second: gbc_cardbattle_27
+  - first:
+      213: -4289352620312704501
+    second: gbc_cardbattle_28
+  - first:
+      213: 941781321553803338
+    second: gbc_cardbattle_29
+  - first:
+      213: 6294645983725624611
+    second: gbc_cardbattle_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 256
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: image_descriptiondivider
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 159
+        width: 103
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da40bdcf8295ed5c0800000000000000
+      internalID: -4188812570832206675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_descriptionbox
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 3
+        width: 105
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b4c692461d894e0800000000000000
+      internalID: -1974598208480064750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icon_carddeck
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 68
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4776523b7aa608380800000000000000
+      internalID: -8971053189224372364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_scalerod
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 55
+        width: 51
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9639f2405057daca0800000000000000
+      internalID: -6004014063809490071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_scalehandle
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a36e800ba57c0d0800000000000000
+      internalID: -3402651281345070447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_healthmarker
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0f3319f717da250800000000000000
+      internalID: 5957542674791919802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_scalebase
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ff474f11e11d00800000000000000
+      internalID: 941781321553803338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: image_healthbar
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 91
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d1ec6fb231b5750800000000000000
+      internalID: 6294645983725624611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cd648019bd25f7a46bf0859aa8696fd9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gbc_cardbattle_0: 406787101949030705
+      gbc_cardbattle_1: -7768160199332496452
+      gbc_cardbattle_11: 2759326247786222592
+      gbc_cardbattle_12: 7266898036347482855
+      gbc_cardbattle_13: -6661237654163157747
+      gbc_cardbattle_14: -1529998750875440969
+      gbc_cardbattle_15: 6346972032972294446
+      gbc_cardbattle_16: 1760373043689229786
+      gbc_cardbattle_17: 8005499430089295592
+      gbc_cardbattle_18: -38157048781781947
+      gbc_cardbattle_19: -3874467527805155486
+      gbc_cardbattle_2: -2004963152509873962
+      gbc_cardbattle_21: 4713671779204606400
+      gbc_cardbattle_22: -1394529797892300607
+      gbc_cardbattle_23: 8942992726394320053
+      gbc_cardbattle_25: 4181260080167937844
+      gbc_cardbattle_28: -4289352620312704501
+      gbc_cardbattle_3: 4105998680719091270
+      gbc_cardbattle_31: 1105823008
+      gbc_cardbattle_4: 867137593378123978
+      gbc_cardbattle_5: -2215493524665795153
+      gbc_cardbattle_6: -3055393165815844843
+      gbc_cardbattle_7: -8225342815195992053
+      gbc_cardbattle_9: -9089490572110787702
+      icon_carddeck: -8971053189224372364
+      image_descriptionbox: -1974598208480064750
+      image_descriptiondivider: -4188812570832206675
+      image_healthbar: 6294645983725624611
+      image_healthmarker: 5957542674791919802
+      image_scalebase: 941781321553803338
+      image_scalehandle: -3402651281345070447
+      image_scalerod: -6004014063809490071
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

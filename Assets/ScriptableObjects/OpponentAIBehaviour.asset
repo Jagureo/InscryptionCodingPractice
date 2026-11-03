@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1aa04a6a3db19a488c3b234e75c715a, type: 3}
+  m_Name: OpponentAIBehaviour
+  m_EditorClassIdentifier: Assembly-CSharp::OpponentAIBehaviour
+  BoardSize: 4
+  Waves:
+  - Cards:
+    - {fileID: 11400000, guid: c3c01f5558815044a85096e0377936da, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - Cards:
+    - {fileID: 11400000, guid: 799d98546fcc87842a9adbdc5c251193, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - Cards:
+    - {fileID: 11400000, guid: c3c01f5558815044a85096e0377936da, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - Cards:
+    - {fileID: 11400000, guid: c3c01f5558815044a85096e0377936da, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}
+  - Cards:
+    - {fileID: 11400000, guid: e8548855999f48645944d856020c0865, type: 2}
+    - {fileID: 0}
+    - {fileID: 0}
+    - {fileID: 0}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68b7b02ae9f82b94291c6d137bd6b6e3, type: 3}
+  m_Name: WolfCub
+  m_EditorClassIdentifier: Assembly-CSharp::CardDefinition
+  Name: Wolf Cub
+  Description: Wolf Cub will grow into a more powerful form after 1 turn on the board.
+  Image: {fileID: 21300000, guid: dfcb6c81cfdecfe4280c1699010bd55d, type: 3}
+  Cost: 0
+  CostAmount: 1
+  InitialSigils: 128
+  AttackValue: 1
+  HealthValue: 1
+  EvolvedCard: {fileID: 11400000, guid: cab8aff4ab866dd409be82ce93be32da, type: 2}
